@@ -2,11 +2,11 @@
 
 ## Te raden woord
 
-|p|.|.|.|.|
+|.|.|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/5.png)
 
 ## fouten Beurten
